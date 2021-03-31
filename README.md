@@ -1,7 +1,8 @@
 # Eyes_Exercise
 
 The eyes follow the mouse pointer across the screen. 
-Originally it started with one eye, and the assignment was to replicate to have two eyes.  
+Originally the assignment provided a file with one eye below that would follow the mouse pointer.
+The assignment was to replicate and have two eyes follow the mouse pointer.
 
 <img src= "oneeye.png" width='300'/>
 
